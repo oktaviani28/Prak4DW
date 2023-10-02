@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.border1{
+    width: 200px;
+    padding: 20px;
+    border: 20px solid rebeccapurple;
+}
+
+.border2{
+    width: 200px;
+    padding: 20px;
+    border: 20px solid blue;
+}
